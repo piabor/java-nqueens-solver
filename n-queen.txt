@@ -1,0 +1,18 @@
+# Every line that starts with a colon is a comment
+# By definition, there is always a queen in each row
+# The column in which queen is present is specified here
+# Uses 1 indexing, not 0 indexing.
+# This example below says: 
+# 1st row queen is located in the 1st column
+# 2nd row queen is located in the 2nd column
+# 3rd row queen is located in the 10th column, etc.
+1
+2
+10
+3
+4
+4
+7
+6
+2
+9
